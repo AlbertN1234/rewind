@@ -10,10 +10,10 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>rewind</artifactId>
+  <artifactId>nginx_release</artifactId>
   <packaging>war</packaging>
-  <name>rewind</name>
-  <description>rewind.</description>
+  <name>nginx_release</name>
+  <description>nginx_release.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
